@@ -5,7 +5,7 @@ td-detail-template
 ## Usage
 
 ```sh
-umi block https://github.com/aisriver/td-blocks/tree/master/detail
+umi block add https://github.com/aisriver/td-blocks/tree/master/detail
 ```
 
 ## LICENSE
