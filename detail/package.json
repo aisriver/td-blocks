@@ -1,5 +1,5 @@
 {
-  "name": "@umi-block/td-detail-block",
+  "name": "@umi-block/detail",
   "version": "0.0.1",
   "description": "td-detail-block",
   "main": "src/index.js",
@@ -7,7 +7,7 @@
     "name": "lj",
     "email": ""
   },
-  "repository": "https://github.com/aisriver/td-detail-block",
+  "repository": "https://github.com/aisriver/td-blocks/detail",
   "scripts": {
     "dev": "umi dev"
   },
